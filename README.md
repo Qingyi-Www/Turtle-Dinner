@@ -48,7 +48,7 @@ Create a game object for the audio manager, use Awake() method, find all existin
 **Link to package:** https://artslondon-my.sharepoint.com/:u:/g/personal/s_wang0320222_arts_ac_uk/Eesr-1PSpLNIiB4xWmBTzG8BD5jrvgPQOdMIkRp-8cdNMQ  
 Start screen is under "Assets\Start\Scenes\start"
 
-**Link to video:** 
+**Link to video:** https://youtu.be/XD-ZxmEl4HY
 
 ## References
 https://www.youtube.com/watch?v=fMd3B0T5ow0&t=437s  
