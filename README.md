@@ -10,6 +10,12 @@ Eating jellyfish increases the turtle's health, while mistakenly colliding with 
 
 This game aims to demonstrate the impact of plastic pollution on marine life. The player can see the pollution under a sea creature's eyes, understanding the need for sustainable practices to preserve our environment.
 
+
+## Demo
+**Link to package:** https://artslondon-my.sharepoint.com/:u:/g/personal/s_wang0320222_arts_ac_uk/Eesr-1PSpLNIiB4xWmBTzG8BD5jrvgPQOdMIkRp-8cdNMQ  
+Start screen is under "Assets\Start\Scenes\start"
+
+
 ## Design Process
 
 **Inspiration:** 
@@ -44,9 +50,6 @@ Create two directional lights: sun and moon, simulate day light and night light.
 **Background Music:** 
 Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
 
-## Demo
-**Link to package:** https://artslondon-my.sharepoint.com/:u:/g/personal/s_wang0320222_arts_ac_uk/Eesr-1PSpLNIiB4xWmBTzG8BD5jrvgPQOdMIkRp-8cdNMQ  
-Start screen is under "Assets\Start\Scenes\start"
 
 **Link to video:** https://youtu.be/XD-ZxmEl4HY
 
