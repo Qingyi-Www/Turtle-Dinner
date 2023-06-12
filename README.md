@@ -1,5 +1,5 @@
 # Turtle's Dinner
-**An immersive Unity game integrated with Arduino, centered around an environmental topic.**
+**An immersive Unity game integrated with Arduino, centered around an environmental topic.** 
 
 ![Image text](https://github.com/RebeccaSY/Turtle-Dinner/blob/main/images/gameview_night.png)  
 ![Image text](https://github.com/RebeccaSY/Turtle-Dinner/blob/main/images/gameview_day.png)  
