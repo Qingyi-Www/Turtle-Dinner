@@ -14,6 +14,7 @@ This game aims to demonstrate the impact of plastic pollution on marine life. Th
 ## Demo
 **Link to package:** https://artslondon-my.sharepoint.com/:u:/g/personal/s_wang0320222_arts_ac_uk/Eesr-1PSpLNIiB4xWmBTzG8BD5jrvgPQOdMIkRp-8cdNMQ  
 Start screen is under "Assets\Start\Scenes\start"
+**Link to video:** https://youtu.be/XD-ZxmEl4HY
 
 
 ## Design Process
@@ -51,7 +52,6 @@ Create two directional lights: sun and moon, simulate day light and night light.
 Create a game object for the audio manager, use Awake() method, find all existing audio manager objects and destroy the excess ones to achieve continuous looping of the music.
 
 
-**Link to video:** https://youtu.be/XD-ZxmEl4HY
 
 ## References
 https://www.youtube.com/watch?v=fMd3B0T5ow0&t=437s  
