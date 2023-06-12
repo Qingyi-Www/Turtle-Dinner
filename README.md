@@ -56,4 +56,4 @@ https://www.youtube.com/watch?v=_lREXfAMUcE
 https://www.bilibili.com/video/BV1P5411Y7Da/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=b445cf31ae0695a5486703750f1ee614
 https://www.bilibili.com/video/BV1po4y1m7VY/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=b445cf31ae0695a5486703750f1ee614
 
-models: purchased online
+models: Objects purchased online, we reconstructed ourselves in Unity.
